@@ -10,8 +10,12 @@
     "NETWORK_ISOLATION": "false",
     "AZURE_KEY_VAULT_NAME": "",
     "AZURE_FORMREC_SERVICE": "",
+    "FORM_REC_API_VERSION": "",    
     "AZURE_OPENAI_SERVICE_NAME": "",
+    "AZURE_OPENAI_CHATGPT_DEPLOYMENT": "chat",    
     "AZURE_OPENAI_EMBEDDING_DEPLOYMENT": "text-embedding-ada-002", 
-    "AZURE_OPENAI_API_VERSION": "2024-02-15-preview"
+    "AZURE_OPENAI_API_VERSION": "2024-07-01-preview",
+    "STORAGE_CONTAINER": "documents",
+    "STORAGE_CONTAINER_IMAGES": "documents-images"
   }
 }
